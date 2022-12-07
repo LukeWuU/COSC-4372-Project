@@ -1,1 +1,1 @@
-This is a project for COSC 4372. 
+COSC 4372 Project
